@@ -1,28 +1,33 @@
+import pytest
 
-from selenium.webdriver.common.by import By
-
-from selenium.webdriver.support.select import Select
-
+from TestData.HomePageData import HomePageData
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
 
 class TestHomePage(BaseClass):
 
-    def test_formSubmission(self):
+    def test_formSubmission(self, getData):
+        log = self.getLogger()
         homePage = HomePage(self.driver)
-        homePage.getName().send_keys("eude")
-        homePage.getEmail().send_keys("eude@eude.com")
+        homePage.getName().send_keys(getData["firstname"])
+        log.info("the first name is "+getData["firstname"])
+        homePage.getEmail().send_keys(getData["email"])
         homePage.checkB().click()
         gend = homePage.getGender()
+        self.selectOptionByText(gend, getData["gender"])
 
-        sel = Select(gend)
-        sel.select_by_visible_text("Male")
         homePage.subForm().click()
 
         alert_text = homePage.alertSuc().text
 
         assert "successfully" in alert_text
+        self.driver.refresh()
+
+    @pytest.fixture(params=HomePageData.test_HomePage_data)
+    def getData(self, request):
+        return request.param
+
 
 
 

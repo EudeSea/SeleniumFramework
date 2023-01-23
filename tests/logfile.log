@@ -1,0 +1,64 @@
+2023-01-23 11:43:37,343: INFO: test_e2e: getting all the products titles
+2023-01-23 11:43:37,936: INFO: test_e2e: enterring country name as India
+2023-01-23 11:43:43,678: INFO: test_e2e: verifying text matching
+2023-01-23 11:45:47,155: INFO: test_e2e: getting all the products titles
+2023-01-23 11:45:47,697: INFO: test_e2e: enterring country name as India
+2023-01-23 11:45:53,407: INFO: test_e2e: verifying text matching
+2023-01-23 11:51:47,770: INFO: test_e2e: getting all the products titles
+2023-01-23 11:51:48,353: INFO: test_e2e: enterring country name as India
+2023-01-23 11:51:54,051: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 11:55:10,644: INFO: test_formSubmission: the first name is eude
+2023-01-23 11:55:13,888: INFO: test_formSubmission: the first name is yola
+2023-01-23 11:55:13,888: INFO: test_formSubmission: the first name is yola
+2023-01-23 11:55:54,547: INFO: test_e2e: getting all the products titles
+2023-01-23 11:55:55,095: INFO: test_e2e: enterring country name as India
+2023-01-23 11:56:00,818: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:04:36,397: INFO: test_formSubmission: the first name is eude
+2023-01-23 12:04:39,690: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:04:39,690: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:04:54,471: INFO: test_e2e: getting all the products titles
+2023-01-23 12:04:55,019: INFO: test_e2e: enterring country name as India
+2023-01-23 12:05:00,741: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:10:56,939: INFO: test_formSubmission: the first name is eude
+2023-01-23 12:11:19,425: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:11:19,425: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:12:55,520: INFO: test_e2e: getting all the products titles
+2023-01-23 12:12:56,070: INFO: test_e2e: enterring country name as India
+2023-01-23 12:13:01,768: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:13:55,907: INFO: test_formSubmission: the first name is eude
+2023-01-23 12:15:02,231: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:15:02,231: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:16:37,391: INFO: test_e2e: getting all the products titles
+2023-01-23 12:16:37,947: INFO: test_e2e: enterring country name as India
+2023-01-23 12:16:43,635: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:19:42,796: INFO: test_formSubmission: the first name is eude
+2023-01-23 12:20:13,012: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:20:13,012: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:21:56,636: INFO: test_e2e: getting all the products titles
+2023-01-23 12:21:57,208: INFO: test_e2e: enterring country name as India
+2023-01-23 12:22:02,913: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:25:51,247: INFO: test_e2e: getting all the products titles
+2023-01-23 12:25:51,791: INFO: test_e2e: enterring country name as India
+2023-01-23 12:25:57,548: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:28:08,079: INFO: test_e2e: getting all the products titles
+2023-01-23 12:28:08,639: INFO: test_e2e: enterring country name as India
+2023-01-23 12:28:14,341: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:30:59,126: INFO: test_e2e: getting all the products titles
+2023-01-23 12:30:59,715: INFO: test_e2e: enterring country name as India
+2023-01-23 12:31:05,420: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-23 12:31:55,171: INFO: test_formSubmission: the first name is eude
+2023-01-23 12:32:30,635: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:32:30,635: INFO: test_formSubmission: the first name is yola
+2023-01-23 12:34:47,681: INFO: test_e2e: getting all the products titles
+2023-01-23 12:34:48,215: INFO: test_e2e: enterring country name as India
+2023-01-23 12:34:53,919: INFO: test_e2e: test received  from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
